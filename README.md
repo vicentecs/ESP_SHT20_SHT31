@@ -1,1 +1,1 @@
-# ESP_SHT20_SHT31
+# ESP SHT20 SHT31 Arduino
